@@ -3,6 +3,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgiordano/)
 
 [![](https://views.whatilearened.today/views/github/3dgiordano/3dgiordano.svg)](http://github.com/3dgiordano/3dgiordano)
+![GitHub User's stars](https://img.shields.io/github/stars/3dgiordano?style=flat)
+
 
 <p align="left">
   <a href="https://github.com/3dgiordano">
