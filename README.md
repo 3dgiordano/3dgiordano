@@ -5,13 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/3dgiordano">
-    <img src="https://github-readme-stats.vercel.app/api?username=3dgiordano&count_private=true&show_icons=false&theme=vue&custom_title=Stats"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/3dgiordano/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3dgiordano&theme=vue#version3"/>
+    <img src="https://githubcard.com/3dgiordano.svg"/>
   </a>
 </p>
 
